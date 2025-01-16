@@ -56,7 +56,8 @@ File Structure
 ________________________________________
 Preview
 
- ![background](https://github.com/user-attachments/assets/0b440931-02f2-49ec-8083-b79ae8be47e1)
+ ![website_preview](https://github.com/user-attachments/assets/69128e2b-eb0f-466c-9fe0-e5553d7924b9)
+)
 
 
 ________________________________________
