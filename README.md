@@ -57,7 +57,6 @@ ________________________________________
 Preview
 
  ![website_preview](https://github.com/user-attachments/assets/69128e2b-eb0f-466c-9fe0-e5553d7924b9)
-)
 
 
 ________________________________________
